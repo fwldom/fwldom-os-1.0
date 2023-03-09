@@ -9,7 +9,7 @@ git clone https://github.com/fwldom/fwldom-os-1.0/blob/af83f7973c3ae3840abb63530
 =============
 open fwldom-os.exe
 ===============
-y
+n
 =============
 installing fwldom-os 
 =====================
@@ -17,6 +17,6 @@ open fwldom-os
 ====================
 open fwldom-os.exe
 ==================
-n
+y
 ================
 End 
